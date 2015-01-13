@@ -1,2 +1,2 @@
-# hadoop
-Analyzing big data with Hadoop, Pig and Hive
+# Hadoop
+Analyzing big data with Hadoop, Pig and Hive.
