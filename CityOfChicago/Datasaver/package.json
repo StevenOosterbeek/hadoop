@@ -1,0 +1,10 @@
+{
+  "name": "CityOfChicagoDataSaver",
+  "version": "1.0.0",
+  "description": “Saving data from the employees of the city of chicago into MongoDB“,
+  "main": "data-saver.js",
+  "author": "Steven Oosterbeek",
+  "dependencies": {
+    "mongoose": "^3.8.21"
+  }
+}
